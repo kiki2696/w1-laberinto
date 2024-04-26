@@ -1,4 +1,4 @@
-## Generador de Laberintos Aleatorios y Solucionador de Laberintos
+# Generador de Laberintos Aleatorios y Solucionador de Laberintos
 Este programa en C++ genera un laberinto aleatorio y proporciona un algoritmo para encontrar una solución para dicho laberinto.
 
 ## Generación Aleatoria
